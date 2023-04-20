@@ -3,4 +3,4 @@
 # Author
 
 - Name :- Vinothraj Kanapathipillai
-- Linkedin :- `https://www.linkedin.com/in/vinothraj-kanapathipillai/`
+- Linkedin :- `https://www.linkedin.com/in/vinothrajkanapathipillai/`
